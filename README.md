@@ -46,7 +46,7 @@ I'm a Computer Science student and a fifth semester student in Game Application 
       <a href="https://neithace.itch.io/money-drop">⬇️Download</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Battle Bird</h3>
+      <h3>🐦 Battle Bird</h3>
       <b>Game Information</b>
       <table>
         <tr><td>Genre</td><td>2D Game</td></tr>
@@ -72,6 +72,30 @@ I'm a Computer Science student and a fifth semester student in Game Application 
       <a href="https://github.com/neithAce/Git-Battle_Bird">📂Repository</a> |
       <a href="https://neithace.itch.io/battle-bird">⬇️Download</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ Endless Ball Runner</h3>
+      <b>Game Information</b>
+      <table>
+        <tr><td>Genre</td><td>3D Game</td></tr>
+        <tr><td>Engine</td><td>Unity</td></tr>
+        <tr><td>Language</td><td>C#</td></tr>
+      </table>
+      <b>Gameplay Preview</b>
+      <img src="ENDLESS_RUNNER_GIF_LINK" width="100%">
+      <b>Description</b>
+      A 3D game developed using Unity. Collect coins and diamonds while avoiding the obstacles that come your way, and get the highest score the longer you play.
+      <b>Features</b>
+      <ul>
+        <li>Score System</li>
+        <li>Collectible System</li>
+        <li>Progression and Economy</li>
+        <li>Score and Progress Tracking</li>
+      </ul>
+      <b>Project Links</b>
+      <a href="https://github.com/neithAce/Git-Endless-Ball-Runner">📂Repository</a> |
+      <a href="https://neithace.itch.io/endlessballrunner">⬇️Download</a>
   </tr>
 </table>
 <!--
