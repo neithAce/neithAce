@@ -29,7 +29,7 @@ I'm a Computer Science student and a fifth semester student in Game Application 
         <tr><td>Language</td><td>C#</td></tr>
       </table>
       <b>Gameplay Preview</b>
-      <img src="MONEY_DROP_GIF_LINK" width="100%">
+      <img src="./assets/money-drop.gif" width="100%">
       <b>Description:</b>
       A 2D game developed using Unity. Collect money, avoid debt, avoid enemy, and try to achieve the highest score.
       <b>Features</b>
@@ -54,7 +54,7 @@ I'm a Computer Science student and a fifth semester student in Game Application 
         <tr><td>Language</td><td>C#</td></tr>
       </table>
       <b>Gameplay Preview</b>
-      <img src="BATTLE_BIRD_GIF_LINK" width="100%">
+      <img src="./assets/battle-bird.gif" width="100%">
       <b>Description:</b>
       A 2D game developed using Unity. Defeat all enemy bird that comes your way in each stage, and achieve the highest score you can get.
       <b>Features</b>
@@ -83,7 +83,7 @@ I'm a Computer Science student and a fifth semester student in Game Application 
         <tr><td>Language</td><td>C#</td></tr>
       </table>
       <b>Gameplay Preview</b>
-      <img src="ENDLESS_RUNNER_GIF_LINK" width="100%">
+      <img src="./assets/endless-ball-runner.gif" width="100%">
       <b>Description:</b>
       A 3D game developed using Unity. Collect coins and diamonds while avoiding the obstacles that come your way, and get the highest score the longer you play.
       <b>Features</b>
