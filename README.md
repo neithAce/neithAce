@@ -106,7 +106,7 @@ I'm a Computer Science student and a fifth semester student in Game Application 
         <tr><td>Language</td><td>C#</td></tr>
       </table>
       <b>Gameplay Preview</b>
-      <img src="JAGGED QUILL_GIF_LINK" width="100%">
+      <img src="./assets/jagged-quill.gif" width="100%">
       <b>Description:</b>
       A 3D game developed using Unity. Try to achieve the objective as fast as you can.
       <b>Features</b>
