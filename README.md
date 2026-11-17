@@ -38,11 +38,40 @@ I'm a Computer Science student and a fifth semester student in Game Application 
         <li>Debt System</li>
         <li>Player Health System</li>
         <li>Score System</li>
+        <li>Enemy System</li>
         <li>Save and Load System</li>
       </ul>
       <b>Project Links</b>
       <a href="https://github.com/neithAce/Git-Money-Drop">📂Repository</a> |
       <a href="https://neithace.itch.io/money-drop">⬇️Download</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Battle Bird</h3>
+      <b>Game Information</b>
+      <table>
+        <tr><td>Genre</td><td>2D Game</td></tr>
+        <tr><td>Engine</td><td>Unity</td></tr>
+        <tr><td>Language</td><td>C#</td></tr>
+      </table>
+      <b>Gameplay Preview</b>
+      <img src="BATTLE_BIRD_GIF_LINK" width="100%">
+      <b>Description</b>
+      A 2D game developed using Unity. Defeat all enemy bird that comes your way in each stage, and achieve the highest score you can get.
+      <b>Features</b>
+      <ul>
+        <li>Player Health System</li>
+        <li>Score System</li>
+        <li>Shooting System</li>
+        <li>Enemy System</li>
+        <li>Power-Up System</li>
+        <li>Stage and Wave System</li>
+        <li>Difficulty and Spawn System</li>
+        <li>Player Damage and Combat Feedback</li>
+      </ul>
+      <b>Project Links</b>
+      <a href="https://github.com/neithAce/Git-Battle_Bird">📂Repository</a> |
+      <a href="https://neithace.itch.io/battle-bird">⬇️Download</a>
+    </td>
   </tr>
 </table>
 <!--
