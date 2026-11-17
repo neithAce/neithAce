@@ -96,6 +96,31 @@ I'm a Computer Science student and a fifth semester student in Game Application 
       <b>Project Links</b>
       <a href="https://github.com/neithAce/Git-Endless-Ball-Runner">📂Repository</a> |
       <a href="https://neithace.itch.io/endlessballrunner">⬇️Download</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪢 Jagged Quill</h3>
+      <b>Game Information</b>
+      <table>
+        <tr><td>Genre</td><td>3D Game</td></tr>
+        <tr><td>Engine</td><td>Unity</td></tr>
+        <tr><td>Language</td><td>C#</td></tr>
+      </table>
+      <b>Gameplay Preview</b>
+      <img src="JAGGED QUILL_GIF_LINK" width="100%">
+      <b>Description:</b>
+      A 3D game developed using Unity. Try to achieve the objective as fast as you can.
+      <b>Features</b>
+      <ul>
+        <li>Player Health System</li>
+        <li>Enemy System</li>
+        <li>Grappling System</li>
+        <li>Shooting System</li>
+        <li>Progression Tracking</li>
+      </ul>
+      <b>Project Links</b>
+      <a href="https://github.com/NoelT2/3d-lt">📂Repository</a> |
+      <a href="https://tristakara.itch.io/jagged-quillwip">⬇️Download</a>
+    </td>
   </tr>
 </table>
 <!--
