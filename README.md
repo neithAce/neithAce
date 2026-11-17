@@ -18,22 +18,33 @@ I'm a Computer Science student and a fifth semester student in Game Application 
 
 ## 🚀 Featured Projects
 
-Here are some of the projects I've worked on.
-
-### 🎮 Money Drop
-
-A 2D game developed using Unity. Collect money, avoid debt, avoid enemy, and try to achieve the highest score
-
-**Features:**
-- Money Collection System
-- Debt Collection System
-- Player Health System
-- Score System
-- Save and Load System
-
-[📂 View Repository](https://github.com/neithAce/Git-Money-Drop)
-[⬇️ Download Game](https://neithace.itch.io/money-drop)
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Money Drop</h3>
+      <b>Game Information</b>
+      <table>
+        <tr><td>Genre</td><td>2D Game</td></tr>
+        <tr><td>Engine</td><td>Unity</td></tr>
+        <tr><td>Language</td><td>C#</td></tr>
+      </table>
+      <b>Gameplay Preview</b>
+      <img src="MONEY_DROP_GIF_LINK" width="100%">
+      <b>Description</b>
+      A 2D game developed using Unity. Collect money, avoid debt, avoid enemy, and try to achieve the highest score.
+      <b>Features</b>
+      <ul>
+        <li>Money Collection System</li>
+        <li>Debt System</li>
+        <li>Player Health System</li>
+        <li>Score System</li>
+        <li>Save and Load System</li>
+      </ul>
+      <b>Project Links</b>
+      <a href="https://github.com/neithAce/Git-Money-Drop">📂Repository</a> |
+      <a href="https://neithace.itch.io/money-drop">⬇️Download</a>
+  </tr>
+</table>
 <!--
 **neithAce/neithAce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
