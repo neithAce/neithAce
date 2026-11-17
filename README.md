@@ -22,7 +22,7 @@ Here are some of the projects I've worked on.
 
 ### 🎮 Money Drop
 
-A 2D game developed using Unity. Collect money, avoid debt, and try to achieve the highest score
+A 2D game developed using Unity. Collect money, avoid debt, avoid enemy, and try to achieve the highest score
 
 **Features:**
 - Money Collection System
