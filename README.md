@@ -1,5 +1,11 @@
 ## Hi there, I'm Dave Alessandro Candela 👋
 
+### Computer Science Student
+
+Welcome to my GitHub profile
+
+I'm a Computer Science student and a fifth semester student in Game Application and Technology from Binus University. I make games more often using Unity, and I'm trying to strengthen my skills in making 2D and 3D games.
+
 <!--
 **neithAce/neithAce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
